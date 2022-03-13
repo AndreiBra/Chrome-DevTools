@@ -1,4 +1,5 @@
 # Тестирование элементов  DevTools
-Тестовое задание представлено в <p><a href="Изучение консоли.md" target="_blank" >"Изучение консоли"</a></p>
 
- Решение к этому заданию <p><a href="https://youtu.be/t5Wv4Fnilvs" target="_blank" >можно посмотреть здесь</a></p>
+Тестовое задание представлено в файле [Изучении консоли](https://github.com/AndreiBra/Chrome-DevTools/blob/main/Изучение%20консоли.md)
+Решение к этому заданию [можно посмотреть здесь](https://youtu.be/t5Wv4Fnilvs)
+
