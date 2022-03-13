@@ -1,6 +1,6 @@
 # Тестирование элементов  DevTools
 
-Тестовое задание [смотреть здесь](https://github.com/AndreiBra/Chrome-DevTools/blob/main/Изучение%20консоли.md)
+Тестовое задание [смотреть здесь](https://github.com/AndreiBra/Chrome-DevTools/blob/main/Задание%20по%20изучению%20инструмента%20разработчика%20Chrome-DevTools.md)
 
 Решение к этому заданию [смотреть здесь](https://youtu.be/t5Wv4Fnilvs)
 
